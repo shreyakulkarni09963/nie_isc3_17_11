@@ -7,6 +7,6 @@ Day 1: Setup,Say I hi to android app dev
 using react native
 
 Learned git commands via vsc
-            - clone
+            -clone
             -add
             -commit
